@@ -1,0 +1,16 @@
+{
+  "itemId": "4235435",
+  "itemName": "正经咖啡",
+  "itemMainPic": "https://si.geilicdn.com/img-662d0000016c41cb36520a21167e-unadjust_672_760.png",
+  "itemOriginalPrice": 5998,
+  "buyerExperienceInfo": {
+    "id": 234251,
+    "creator": {
+      "userId": "324536456",
+      "nickName": "李四",
+      "headUrl": "https://si.geilicdn.com/img-5fb20000016c41cb35470a219248-unadjust_64_64.png"
+    },
+    "buyNum": 3,
+    "lastBuyTime": 1563926400000
+  }
+}
